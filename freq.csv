@@ -1,12 +1,89 @@
-158.355,FM, "Montco Fire/EMS Dispatch"
-460.3125,FM, "Medevac LZ Coordination"
-465.3125,FM, "Medevac LZ Coordination"
-852.2125,WFM_ST, "Fireground"
-852.475,WFM_ST, "Fireground"
-853.2,WFM_ST, "Fireground"
-853.425,WFM_ST, "Fireground"
-853.475,WFM_ST, "Fireground"
-853.5,WFM_ST, "Fire police tac"
-154.19,FM, "Fairmount Fire - Lansdale"
-153.5,FM, "Lansdale Public Works"
-155.64,FM, "Lansdale PD"
+158.85000	FM	BCSO Dispatch - North
+155.14500	FM	BCSO Dispatch - Central
+159.27000	FM	BCSO Dispatch - South
+155.41500	FM	BCSO Records
+155.05500	FM	BCSO SWAT
+155.80500	FM	BCSO LTAC 1
+155.64000	FM	BCSO LTAC 2
+155.92500	FM	BCSO Law 2
+155.65500	FM	BCSO Law 3
+154.80000	FM	BCSO Jail
+154.84500	FM	BCSO Jail
+155.35500	FM	BCSO Jail
+155.85000	FM	BCSO Juv Det
+465.31250	FM	BCSO Jail-U
+158.80500	FM	BCSO Blue NW
+155.53500	FM	Boulder County Fire - Dispatch North 
+154.22000	FM	Boulder County Fire - Dispatch Central 
+151.35500	FM	Boulder County Fire - Dispatch South 
+154.32500	FM	Boulder County Fire - Dispatch Direct 
+154.20500	FM	Boulder County Fire - Tactical 2 
+154.41500	FM	Boulder County Fire - Tactical 3 
+153.83000	FM	Boulder County Fire - Tactical 4 
+153.95000	FM	Boulder County Fire - Tactical 5 
+155.40750	FM	Boulder County Fire - Tactical 6 
+155.85000	FM	Boulder County Fire - Tactical 7 
+154.10750	FM	Boulder County Fire - Tactical 8 
+159.03000	FM	Boulder County Fire - Tactical 9 
+154.37000	FM	Boulder County Fire - Command 
+151.25750	FM	Boulder Mountain Fire Protection District 1 
+160.02000	FM	FMN 
+153.89000	FM	Boulder Rural Fire Protection District 
+154.16000	FM	Rocky Mountain Fire Protection District 1 
+151.74500	FM	Rocky Mountain Fire Protection District 2 
+151.43750	FM	Four Mile Fire Protection District 
+158.96250	FM	Hygiene Fire Department - Tactical 
+155.11500	FM	Lafayette Fire Department 
+155.59500	FM	Lefthand Fire Department - High 
+154.02500	FM	Lefthand Fire Department - Low 
+155.38500	FM	Louisville Fire Protection District 
+154.35500	FM	Mountain View Fire Protection District 1 
+151.20500	FM	Mountain View Fire Protection District 2 
+151.49750	FM	Nederland Fire Protection District - Tactical 
+154.25000	FM	Sugarloaf Fire Protection District 
+151.27250	FM	Sunshine Fire Protection District 
+153.79250	FM	Sunshine Fire Protection District - Tactical 
+155.25000	FM	Fire/EMS Mutual Aid - Linked to DTRS 
+155.28000	FM	EMS 
+155.94000	FM	Lafayette EMS 
+155.28000	FM	Boulder Community Hospital (Broadway) 
+155.28000	FM	Wardenburg Health 
+155.28000	FM	Boulder Memorial (Avista) 
+155.28000	FM	Longmont United 
+155.28000	FM	Boulder Community Hospital (Foothills) 
+155.28000	FM	Exempla (Good Samaritan) 
+155.28000	FM	COMM Med CTR
+155.16000 	FM	Rocky Mountian Rescue Group 
+155.23500 	FM	Rocky Mountian Rescue Group 
+155.17500 	FM	Front Range Rescue Dogs 
+155.20500 	FM	Boulder Emergency Squad 
+151.68500 	FM	Longmont Emergency Unit 
+156.18000 	FM	Boulder County Roads
+153.75500	FM	BDR CO Fa
+156.21000	FM	LongmontPD
+151.02500	FM	LngmtFD Ton
+158.19000	FM	LngmtElectr
+158.25000	FM	LngmtSani
+158.86500	FM	LngmtPubEvn
+158.89500	FM	LngmtStreet
+120.00000	AM	KLMO AWOS
+122.97500	AM 	KLMO CTAF
+126.10000	AM	KLMO App/Dep
+464.42500	FM	Twin Pk Mall
+145.22000	FM	WN0EHE - Guy Hill
+146.47000	FM	W0DK - Table Mtn
+146.61000	FM	N0PM
+146.70000	FM	W0DK - Boulder
+146.73000	FM	K0DK - Boulder
+146.76000	FM	W0IA - Gunbarrel Hill (BCARES)
+146.80500	FM	K0ARK - Gold Hill - Mountain Emergency Radio Network
+147.03000	FM	KI0GH - Allenspark - Mountain Emergency Radio Network
+147.27000	FM	W0ENO - Longmont (LARC)
+224.02000	FM	W0IA - Boulder
+447.75000	FM	N0SZ - Lee Hill (IRLP Node 3450)
+448.90000	FM	W0DK - Table Mesa (Boulder)
+449.40000	FM	K0DK - Boulder
+449.50000	FM	KA5Q - Loiusville
+449.55000	FM	W0IA - Boulder
+921.10000	FM	N0SZ - Lee Hill
+921.20000	FM	K2AD - Longmont
